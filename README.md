@@ -11,7 +11,7 @@ Some icons will require editing the `Action=` line in the icon skins to point to
 
 [Rainmeter](https://www.rainmeter.net/) is required to install the skin.
 
-Latest Release can be found [here](https://github.com/reisir/mondtholomew/releases)
+Latest Release can be found [here](https://github.com/creepertron95/HoneycombNG/releases)
 ## Features
 
 - Multi-layered icons
