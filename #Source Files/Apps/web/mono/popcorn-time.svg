@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="popcorn-time.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.082807"
+     inkscape:cx="17.592828"
+     inkscape:cy="19.458481"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 26.576172 11.400391 C 24.623829 11.400391 22.9293 12.442959 22 14 C 21.391216 13.626244 20.679805 13.400391 19.910156 13.400391 C 17.694156 13.400391 15.910156 15.184391 15.910156 17.400391 L 15.910156 17.582031 C 14.745467 17.993591 13.910156 19.091308 13.910156 20.400391 C 13.910156 21.280048 14.291331 22.061588 14.890625 22.609375 C 15.328265 22.235333 15.88711 22 16.5 22 C 17.441351 22 18.115125 22.620041 18.541016 23.400391 C 18.860034 23.251026 19.128158 23 19.5 23 C 19.945684 23 20.338078 23.168589 20.689453 23.400391 L 21.310547 23.400391 C 21.661922 23.168589 22.054316 23 22.5 23 C 22.945684 23 23.338078 23.168589 23.689453 23.400391 L 24.310547 23.400391 C 24.661922 23.168589 25.054316 23 25.5 23 C 25.945684 23 26.338078 23.168589 26.689453 23.400391 L 27.310547 23.400391 C 27.661922 23.168589 28.054316 23 28.5 23 C 28.871842 23 29.139966 23.251026 29.458984 23.400391 C 29.884875 22.620041 30.558649 22 31.5 22 C 32.071504 22 32.59567 22.205185 33.019531 22.535156 C 33.569303 21.991946 33.910156 21.237902 33.910156 20.400391 C 33.910156 19.091308 33.074845 17.993591 31.910156 17.582031 L 31.910156 16.734375 C 31.910156 13.779709 29.530838 11.400391 26.576172 11.400391 z M 20.5 17 C 21.331 17 22 17.669 22 18.5 C 22 19.331 21.331 20 20.5 20 C 19.669 20 19 19.331 19 18.5 C 19 17.669 19.669 17 20.5 17 z M 27.5 17 C 28.331 17 29 17.669 29 18.5 C 29 19.331 28.331 20 27.5 20 C 26.669 20 26 19.331 26 18.5 C 26 17.669 26.669 17 27.5 17 z M 22 20 L 26 20 C 26 20 26 22 24 22 C 22 22 22 20 22 20 z "
+       id="rect870" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 16.5,23 C 15.669,23 15,23.669 15,24.5 V 32 c 0,0 0,1 1,1 5.333333,0 10.666667,0 16,0 1,0 1,-1 1,-1 V 24.5 C 33,23.669 32.331,23 31.5,23 30.669,23 30,23.669 30,24.5 v 1 C 30,24.669 29.331,24 28.5,24 27.669,24 27,24.669 27,25.5 27,24.669 26.331,24 25.5,24 24.669,24 24,24.669 24,25.5 24,24.669 23.331,24 22.5,24 21.669,24 21,24.669 21,25.5 21,24.669 20.331,24 19.5,24 18.669,24 18,24.669 18,25.5 v -1 C 18,23.669 17.331,23 16.5,23 Z"
+       id="rect828-1-0"
+       sodipodi:nodetypes="sscsscssscscscscscss" />
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="rave-dja.svg">
+  <defs
+     id="defs1995">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="50"
+       x2="90"
+       y1="20"
+       x1="60"
+       xlink:href="#WhiteTransparent-4"
+       id="IcecapTip-6"
+       gradientTransform="matrix(0.9965784,0,0,0.9962666,-89.841948,-62.996045)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="WhiteTransparent-4">
+      <stop
+         id="stop7606-4"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop7608-7"
+         offset="1"
+         style="stop-color:white;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.083334"
+     inkscape:cx="22.346472"
+     inkscape:cy="22.962941"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff"
+       d="m 16.382812,27.17 3.1875,-8.209062 h 1.992187 l 3.1875,8.226563 h -2.273437 l -1.945313,-5.390626 -1.921875,5.390626 z"
+       id="path836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff"
+       d="m 23.999999,18.937501 2.015625,5.882812 2.085938,-5.882812 z"
+       id="path838"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff"
+       d="m 17.226562,18.937501 -0.04687,2.296875 c 0,0 -0.580605,-0.118145 -0.84375,-0.07031 -1.873235,0.340497 -1.757812,1.734375 -1.757812,1.734375 v 4.195313 h -2.320313 v -7.945313 h 2.226563 v 1.03125 c 0,0 0.745332,-1.058225 1.734375,-1.265625 0.562785,-0.118014 1.007807,0.02344 1.007807,0.02344 z"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccccccscc" />
+    <path
+       style="fill:#ffffff"
+       d="M 32.0625 18.796875 C 31.099227 18.790075 30.328125 19.101562 30.328125 19.101562 L 28.054688 24.867188 C 28.054688 24.867188 28.956398 27.298619 32.039062 27.328125 C 34.827818 27.354815 35.71875 25.570312 35.71875 25.570312 L 33.984375 24.421875 C 33.984375 24.421875 33.243948 25.33102 32.039062 25.242188 C 30.348215 25.117527 30.234375 23.695313 30.234375 23.695312 L 36.046875 23.695312 L 36.046875 22.59375 C 36.046875 22.59375 36.024155 18.82477 32.0625 18.796875 z M 32.015625 20.53125 C 33.517235 20.52635 33.65625 22.078125 33.65625 22.078125 L 30.257812 22.078125 C 30.257812 22.078125 30.461771 20.536274 32.015625 20.53125 z "
+       id="path842" />
+  </g>
+</svg>

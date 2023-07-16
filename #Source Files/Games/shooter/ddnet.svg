@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ddnet.svg">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="21.677703"
+     inkscape:cx="17.369436"
+     inkscape:cy="27.755752"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       d="M 24.951172 27 C 24.974742 27.164651 25 27.328627 25 27.5 C 25 27.671373 24.974742 27.835349 24.951172 28 L 31.515625 28 C 32.337444 28 33 28.662556 33 29.484375 L 33 29.515625 C 33 30.337444 32.337444 31 31.515625 31 L 21.5 31 L 18.5 31 L 16.484375 31 C 15.662556 31 15 30.337444 15 29.515625 L 15 29.484375 C 15 29.19781 15.084829 28.933528 15.224609 28.707031 C 15.087016 28.332049 15.000933 27.931427 15 27.507812 C 14.395006 27.963265 14 28.681048 14 29.5 C 14 30.885 15.115 32 16.5 32 L 31.5 32 C 32.885 32 34 30.885 34 29.5 C 34 28.115 32.885 27 31.5 27 L 24.951172 27 z "
+       id="rect827" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       d="M 29.955078 25.044922 L 28 27 L 24.994141 27.601562 C 24.977181 28.145225 24.830935 28.651528 24.595703 29.105469 C 25.05359 29.648667 25.730705 30 26.5 30 L 29.5 30 C 30.885 30 32 28.885 32 27.5 C 32 26.27072 31.12099 25.257977 29.955078 25.044922 z "
+       id="rect831-2" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       d="M 23.984375 13 C 19.561031 13 16 16.561031 16 20.984375 L 16 21.015625 C 16 22.253465 16.286556 23.419251 16.785156 24.462891 C 17.293336 24.176093 17.872587 24 18.5 24 L 18.804688 24 C 18.295953 23.117862 18 22.095508 18 21 C 18 17.676 20.676 15 24 15 C 27.324 15 30 17.676 30 21 C 30 24.002881 27.814082 26.469932 24.941406 26.919922 C 24.972976 27.109577 25 27.301115 25 27.5 C 25 28.026134 24.878104 28.519959 24.671875 28.966797 C 28.784972 28.634166 32 25.217269 32 21.015625 L 32 20.984375 C 32 16.561031 28.438969 13 24.015625 13 L 23.984375 13 z "
+       id="rect821" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       id="rect831"
+       width="8"
+       height="5"
+       x="16"
+       y="25"
+       ry="2.5" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       id="rect854"
+       width="2"
+       height="4"
+       x="21"
+       y="19"
+       ry="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       id="rect856"
+       width="2"
+       height="4"
+       x="25"
+       y="19"
+       ry="1" />
+  </g>
+</svg>

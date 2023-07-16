@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="team-fortress-2a.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.786848"
+     inkscape:cx="-0.33198994"
+     inkscape:cy="25.159639"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="M 24 13 C 23.152655 13 22.335502 13.115921 21.550781 13.3125 L 23.626953 19.037109 C 23.75162 19.025502 23.8722 19 24 19 C 25.375953 19 26.583539 19.688285 27.302734 20.740234 L 33.009766 18.669922 C 31.400115 15.313219 27.984531 13 24 13 z M 19.669922 13.990234 C 16.313219 15.599885 14 19.015469 14 23 C 14 23.847345 14.115921 24.664498 14.3125 25.449219 L 20.037109 23.373047 C 20.025502 23.24838 20 23.1278 20 23 C 20 21.624047 20.688285 20.416461 21.740234 19.697266 L 19.669922 13.990234 z M 33.6875 20.550781 L 27.962891 22.626953 C 27.974498 22.75162 28 22.8722 28 23 C 28 24.375953 27.311715 25.583539 26.259766 26.302734 L 28.330078 32.009766 C 31.686781 30.400115 34 26.984531 34 23 C 34 22.152655 33.884079 21.335502 33.6875 20.550781 z M 20.697266 25.259766 L 14.990234 27.330078 C 16.599885 30.686781 20.015469 33 24 33 C 24.847345 33 25.664498 32.884079 26.449219 32.6875 L 24.373047 26.962891 C 24.24838 26.974498 24.1278 27 24 27 C 22.624047 27 21.416461 26.311715 20.697266 25.259766 z "
+       id="rect822" />
+  </g>
+</svg>

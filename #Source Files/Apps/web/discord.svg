@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="discorda.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="50"
+       x2="90"
+       y1="20"
+       x1="60"
+       xlink:href="#WhiteTransparent-4"
+       id="IcecapTip-6"
+       gradientTransform="matrix(0.9965784,0,0,0.9962666,-89.841948,-62.996045)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="WhiteTransparent-4">
+      <stop
+         id="stop7606-4"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop7608-7"
+         offset="1"
+         style="stop-color:white;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.083334"
+     inkscape:cx="10.976225"
+     inkscape:cy="26.485464"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g822"
+       transform="matrix(0.96259103,0,0,0.96259103,-124.16165,-77.896128)"
+       style="fill:#ffffff">
+      <path
+         id="path820"
+         d="m 161.17157,98.186149 c -1.35241,-0.632758 -2.79848,-1.09262 -4.31029,-1.354471 -0.18567,0.335682 -0.40258,0.787183 -0.55214,1.14635 -1.6071,-0.241689 -3.19942,-0.241689 -4.77697,0 -0.14952,-0.359167 -0.37136,-0.810668 -0.55869,-1.14635 -1.51345,0.261851 -2.96117,0.723403 -4.31357,1.357822 -2.72783,4.1221 -3.4673,8.1418 -3.09756,12.10444 1.80923,1.35109 3.56259,2.17184 5.28637,2.70891 0.42561,-0.58576 0.8052,-1.20844 1.1322,-1.86468 -0.62278,-0.23665 -1.21928,-0.52869 -1.78291,-0.86772 0.14952,-0.11077 0.29578,-0.22659 0.43709,-0.34576 3.4377,1.60791 7.17285,1.60791 10.56949,0 0.14296,0.11917 0.2892,0.23499 0.43709,0.34576 -0.56528,0.3407 -1.16342,0.63274 -1.78621,0.8694 0.32701,0.65456 0.70496,1.27893 1.1322,1.86466 1.72544,-0.53707 3.48043,-1.35779 5.28967,-2.71057 0.43382,-4.5937 -0.7411,-8.5765 -3.10577,-12.107791 z m -10.72231,9.670811 c -1.03196,0 -1.87825,-0.9634 -1.87825,-2.13659 0,-1.17318 0.82822,-2.13825 1.87825,-2.13825 1.05007,0 1.89634,0.96337 1.87826,2.13825 0.002,1.17319 -0.82819,2.13659 -1.87826,2.13659 z m 6.94116,0 c -1.03196,0 -1.87825,-0.9634 -1.87825,-2.13659 0,-1.17318 0.82819,-2.13825 1.87825,-2.13825 1.05004,0 1.89633,0.96337 1.87826,2.13825 0,1.17319 -0.82822,2.13659 -1.87826,2.13659 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-rule:nonzero;stroke-width:0.08161136" />
+    </g>
+  </g>
+</svg>

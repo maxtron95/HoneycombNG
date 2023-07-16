@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="x-motoa.svg">
+  <defs
+     id="defs1995">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="50"
+       x2="90"
+       y1="20"
+       x1="60"
+       xlink:href="#WhiteTransparent-4"
+       id="IcecapTip-6"
+       gradientTransform="matrix(0.9965784,0,0,0.9962666,-89.841948,-62.996045)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="WhiteTransparent-4">
+      <stop
+         id="stop7606-4"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop7608-7"
+         offset="1"
+         style="stop-color:white;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.083334"
+     inkscape:cx="8.3051644"
+     inkscape:cy="25.803038"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff"
+       d="m 14,14 h 5 l 11,9 h -5 z"
+       id="path837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff"
+       d="M 25 14 L 17.615234 20.041016 C 18.828078 20.189082 19.893458 20.775763 20.675781 21.628906 L 26.013672 17.261719 C 26.009169 17.174321 26 17.088556 26 17 C 26 15.867057 26.387118 14.836645 27.017578 14 L 25 14 z "
+       id="path837-4" />
+    <path
+       style="fill:#ffffff"
+       d="M 21.580078 23 C 21.846882 23.612745 22 24.28682 22 25 C 22 26.122918 21.620358 27.14567 21 27.978516 L 21 33 L 24 33 L 24 26 L 26 33 L 29 33 L 31 26 L 31 33 L 34 33 L 34 23 L 30 23 L 27.5 29 L 25 23 L 21.580078 23 z "
+       id="path854" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       d="M 17 21 C 14.784 21 13 22.784 13 25 C 13 27.216 14.784 29 17 29 C 19.216 29 21 27.216 21 25 C 21 22.784 19.216 21 17 21 z M 17 23 C 18.108 23 19 23.892 19 25 C 19 26.108 18.108 27 17 27 C 15.892 27 15 26.108 15 25 C 15 23.892 15.892 23 17 23 z "
+       id="rect856" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       id="rect860"
+       width="2"
+       height="2"
+       x="16"
+       y="24"
+       ry="1" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       d="M 31 13 C 28.784 13 27 14.784 27 17 C 27 19.216 28.784 21 31 21 C 33.216 21 35 19.216 35 17 C 35 14.784 33.216 13 31 13 z M 31 15 C 32.108 15 33 15.892 33 17 C 33 18.108 32.108 19 31 19 C 29.892 19 29 18.108 29 17 C 29 15.892 29.892 15 31 15 z "
+       id="rect856-3" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       id="rect860-5"
+       width="2"
+       height="2"
+       x="30"
+       y="16"
+       ry="1" />
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="quavera.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.786848"
+     inkscape:cx="25.132132"
+     inkscape:cy="24.929952"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#eceff4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="M 24 13 C 21.929117 13 20.010489 13.623507 18.417969 14.693359 L 19.964844 16.09375 C 21.149016 15.40265 22.524553 15 24 15 C 28.432 15 32 18.568 32 23 C 32 26.249298 30.078649 29.028263 27.308594 30.283203 L 28.074219 31.957031 L 27.191406 32.476562 C 31.155544 31.149572 34 27.421959 34 23 C 34 17.46 29.54 13 24 13 z "
+       id="path868" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#74e0f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="M 15.324219 18.023438 C 14.48403 19.487388 14 21.183915 14 23 C 14 28.54 18.46 33 24 33 C 24.705503 33 25.389828 32.91825 26.052734 32.779297 C 25.799206 32.519229 25.428263 32.129849 25.191406 31.824219 C 25.010971 31.591393 24.793377 31.248378 24.621094 30.96875 C 24.415518 30.984444 24.209732 31 24 31 C 19.568 31 16 27.432 16 23 C 16 22.063676 16.167936 21.169639 16.460938 20.335938 C 16.020276 19.862888 15.34623 19.0006 15.324219 18.023438 z "
+       id="rect822" />
+    <path
+       style="fill:#eceff4"
+       d="m 26.759592,30.518468 c 0,0 1.419323,2.5751 3.943532,2.669032 3.488327,0.129809 5.34375,-3.234375 5.34375,-3.234375 0,0 -1.617635,1.678332 -3.679688,0.75 -0.739465,-0.332906 -1.769531,-1.804687 -1.769531,-1.804687 z"
+       id="path837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#eceff4;fill-opacity:1;fill-rule:evenodd;paint-order:stroke fill markers"
+       id="rect839"
+       width="5.8125"
+       height="5.8125"
+       x="17.139189"
+       y="14.18371"
+       ry="2.90625" />
+  </g>
+</svg>

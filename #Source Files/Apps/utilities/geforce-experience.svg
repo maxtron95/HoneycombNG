@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="geforce-experiencea.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.575887"
+     inkscape:cx="18.718162"
+     inkscape:cy="25.695912"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 21 16 L 21 17.960938 C 26.199731 18.096312 29.060547 21.986328 29.060547 21.986328 C 29.060547 21.986328 25.859618 26.483563 21.005859 26.257812 C 21.00386 26.25772 21.001997 26.25791 21 26.257812 L 21 27.402344 C 21.002004 27.402381 21.003854 27.402309 21.005859 27.402344 C 26.437536 27.495664 29.958984 23.591797 29.958984 23.591797 L 32.490234 25.0625 C 32.490234 25.0625 27.137286 28.908986 21 28.443359 L 21 30 L 34 30 L 34 16 L 21 16 z M 21 28.443359 L 21 27.402344 C 16.946836 27.327678 15.128906 22.205078 15.128906 22.205078 C 15.128906 22.205078 17.296762 19.025765 21 19.078125 L 21 17.960938 C 20.992638 17.960746 20.985887 17.959161 20.978516 17.958984 C 16.924469 17.861863 12.978516 22.041016 12.978516 22.041016 C 12.978516 22.041016 15.056576 27.927386 20.84375 28.435547 C 20.896328 28.440164 20.947534 28.439379 21 28.443359 z M 21 19.078125 L 21 20.330078 C 21.011467 20.329732 21.021704 20.326424 21.033203 20.326172 C 23.211538 20.278332 24.978516 21.904297 24.978516 21.904297 L 23.320312 23.402344 C 23.320312 23.402344 22.445768 21.578192 21 21.431641 L 21 25.275391 C 21.011419 25.276169 21.021679 25.278752 21.033203 25.279297 C 24.237497 25.430682 26.964844 22.013672 26.964844 22.013672 C 26.964844 22.013672 24.81757 19.149817 21.033203 19.076172 C 21.021823 19.07595 21.011351 19.078285 21 19.078125 z M 21 25.275391 C 19.329361 25.161446 18.775391 22.558594 18.775391 22.558594 C 18.775391 22.558594 19.338806 21.323566 20.925781 21.416016 C 20.951864 21.417535 20.974279 21.429033 21 21.431641 L 21 20.330078 C 18.689569 20.399916 17.033203 22.367187 17.033203 22.367188 C 17.033203 22.367187 18.156408 26.120361 21 26.257812 L 21 25.275391 z "
+       id="rect828" />
+  </g>
+</svg>

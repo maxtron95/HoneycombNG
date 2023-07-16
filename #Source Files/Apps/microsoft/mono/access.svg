@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="microsoft_access.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.575887"
+     inkscape:cx="15.874927"
+     inkscape:cy="25.695912"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 11.669922 8.6425781 L 9.4785156 9.875 C 12.747823 11.115752 18.016256 11.921875 24 11.921875 C 29.983744 11.921875 35.252177 11.115752 38.521484 9.875 L 36.330078 8.6425781 C 33.112296 9.4830461 28.78587 10 24 10 C 19.21413 10 14.887704 9.4830461 11.669922 8.6425781 z M 6 16.078125 L 6 18 C 6 19.969663 10.069152 21.660577 16 22.476562 L 16 20.554688 C 10.069152 19.738702 6 18.047788 6 16.078125 z M 42 16.078125 C 42 18.047788 37.930848 19.738702 32 20.554688 L 32 22.476562 C 37.930848 21.660577 42 19.969663 42 18 L 42 16.078125 z M 6 27 L 6 28.921875 C 6 31.691875 14.028 33.921875 24 33.921875 C 33.972 33.921875 42 31.691875 42 28.921875 L 42 27 C 42 29.77 33.972 32 24 32 C 14.028 32 6 29.77 6 27 z "
+       id="path2564-3" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 19 16 C 17.892 16 17 16.892 17 18 L 17 28 C 17 29.108 17.892 30 19 30 L 29 30 C 30.108 30 31 29.108 31 28 L 31 18 C 31 16.892 30.108 16 29 16 L 19 16 z M 24.011719 18 A 1.0001 1.0001 0 0 1 24.935547 18.648438 L 27.935547 26.648438 A 1.0001 1.0001 0 1 1 26.064453 27.351562 L 25.558594 26 L 22.441406 26 L 21.935547 27.351562 A 1.0001 1.0001 0 1 1 20.064453 26.648438 L 23.064453 18.648438 A 1.0001 1.0001 0 0 1 24.011719 18 z M 24 21.845703 L 23.191406 24 L 24.808594 24 L 24 21.845703 z "
+       id="rect817" />
+  </g>
+</svg>

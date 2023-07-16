@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="viveporta.svg">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.573696"
+     inkscape:cx="12.7844"
+     inkscape:cy="18.386131"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 22 14 C 21.242418 13.999949 20.54982 14.427907 20.210938 15.105469 L 14.210938 27.105469 C 13.826128 27.875519 13.977175 28.805406 14.585938 29.414062 L 16.585938 31.414062 C 16.960961 31.789136 17.469602 31.999898 18 32 L 30 32 C 30.530398 31.999898 31.03904 31.789136 31.414062 31.414062 L 33.414062 29.414062 C 34.022824 28.805405 34.173873 27.875519 33.789062 27.105469 L 27.789062 15.105469 C 27.45018 14.427907 26.757582 13.999949 26 14 L 22 14 z M 24.017578 18.037109 C 25.144551 18.037109 25.750522 18.774538 26.408203 19.560547 C 27.065884 20.346556 27.695146 21.339312 28.238281 22.365234 C 28.781417 23.391157 29.233317 24.439699 29.505859 25.353516 C 29.64213 25.810424 29.736506 26.230433 29.759766 26.646484 C 29.783023 27.062536 29.794803 27.560667 29.326172 28.029297 C 28.975393 28.380076 28.646694 28.473751 28.28125 28.582031 C 27.915806 28.690311 27.508882 28.767968 27.058594 28.830078 C 26.158016 28.954299 25.090304 29.011719 24.017578 29.011719 C 22.944852 29.011719 21.875187 28.954296 20.974609 28.830078 C 20.524321 28.767969 20.117397 28.690311 19.751953 28.582031 C 19.386509 28.473751 19.05781 28.380076 18.707031 28.029297 C 18.238398 27.560667 18.250177 27.062536 18.273438 26.646484 C 18.296695 26.230433 18.391073 25.810424 18.527344 25.353516 C 18.799886 24.439699 19.251786 23.391157 19.794922 22.365234 C 20.338057 21.339311 20.967319 20.346556 21.625 19.560547 C 22.282681 18.774538 22.890605 18.037109 24.017578 18.037109 z "
+       id="path818" />
+  </g>
+</svg>

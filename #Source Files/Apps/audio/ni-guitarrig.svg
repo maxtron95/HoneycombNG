@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ni-guitarriga.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995">
+    <style
+       id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.027632"
+     inkscape:cx="0.60093159"
+     inkscape:cy="29.856657"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;isolation:isolate;fill:#ffffff;stroke:none;stroke-width:0.2739726;stroke-linecap:round;stroke-linejoin:round"
+       d="M 24 13 A 10.000001 10 0 0 0 14 23 A 10.000001 10 0 0 0 24 33 A 10.000001 10 0 0 0 33.789062 25.029297 L 31.822266 24.675781 C 31.055968 28.297796 27.856807 31 24 31 C 19.567999 31 16 27.432001 16 23 C 16 18.567999 19.567999 15 24 15 C 26.161606 15 28.113944 15.85255 29.550781 17.236328 L 31.246094 16.115234 A 10.000001 10 0 0 0 24 13 z "
+       id="circle10" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.2739726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.245289,16.114298 -12.083245,3.341955 c -0.984222,0.323997 -0.526006,2.727954 -0.526006,2.727954 L 32.825982,18.31357 c -0.424726,-0.801381 -0.956498,-1.541256 -1.580693,-2.199272 z m 1.976135,3.040454 -14.453751,3.949832 0.49283,2.169306 14.586458,-4.006018 c -0.130025,-0.725268 -0.339811,-1.433944 -0.625537,-2.11312 z m 0.76038,3.327804 -14.227937,3.875989 c 0,0 0.859266,2.154291 1.906036,1.80811 0.09497,0.07143 10.934145,-2.807148 12.1298,-3.137545 0.139085,-0.667433 0.209551,-1.34734 0.210296,-2.02911 -0.0016,-0.17261 -0.0077,-0.345149 -0.01819,-0.517444 z"
+       id="path882"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="teeworldsa.svg">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.083334"
+     inkscape:cx="8.8382613"
+     inkscape:cy="25.208314"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       d="M 24 13 C 18.46 13 14 17.46 14 23 C 14 24.10341 14.182621 25.161325 14.509766 26.152344 C 15.016937 25.699338 15.626891 25.367955 16.302734 25.181641 C 16.109917 24.492363 16 23.768097 16 23.015625 L 16 22.984375 C 16 18.561031 19.561031 15 23.984375 15 L 24.015625 15 C 28.438969 15 32 18.561031 32 22.984375 L 32 23.015625 C 32 27.195517 28.818799 30.602158 24.736328 30.964844 C 24.462764 31.759274 23.979067 32.445553 23.34375 32.966797 C 23.561689 32.980854 23.778388 33 24 33 C 24.759995 33 25.496412 32.909142 26.207031 32.75 C 26.607277 32.908608 27.041979 33 27.5 33 L 30.5 33 C 32.439 33 34 31.439 34 29.5 C 34 28.595584 33.650974 27.782001 33.091797 27.162109 C 33.670292 25.894994 34 24.488661 34 23 C 34 17.46 29.54 13 24 13 z "
+       id="rect819-6" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       id="rect819"
+       width="10"
+       height="7"
+       x="14"
+       y="26"
+       ry="3.5" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       id="rect853"
+       width="2"
+       height="4"
+       x="21"
+       y="20"
+       ry="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       id="rect855"
+       width="2"
+       height="4"
+       x="26"
+       y="20"
+       ry="1" />
+  </g>
+</svg>

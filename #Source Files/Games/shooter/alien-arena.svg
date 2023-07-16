@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="alien-arenaa.svg">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.083334"
+     inkscape:cx="7.6891934"
+     inkscape:cy="18.619863"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       d="M 24 11 C 18.46 11 14 15.46 14 21 C 14 24.713707 16.009843 27.935216 19 29.660156 L 19 30.5 C 19 31.71386 19.855928 32.719022 21 32.949219 L 21 33 C 21 34.108 21.892 35 23 35 L 25 35 C 26.108 35 27 34.108 27 33 L 27 32.949219 C 28.144072 32.719022 29 31.71386 29 30.5 L 29 29.660156 C 31.990157 27.935216 34 24.713707 34 21 C 34 15.46 29.54 11 24 11 z M 20 29 C 20 29 21.832536 29.02329 22.585938 29.945312 C 23.028097 30.48643 23 32 23 32 C 23 32 21.609919 32.045619 20.630859 31.021484 C 20.152816 30.521433 20 29 20 29 z M 28 29 C 28 29 27.847184 30.521433 27.369141 31.021484 C 26.390081 32.045619 25 32 25 32 C 25 32 24.971903 30.48643 25.414062 29.945312 C 26.167464 29.02329 28 29 28 29 z "
+       id="rect821" />
+  </g>
+</svg>

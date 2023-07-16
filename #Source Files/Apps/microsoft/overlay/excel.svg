@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="microsoft-excel.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.67186"
+     inkscape:cx="36.136416"
+     inkscape:cy="27.975029"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3b7038;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect945"
+       width="6"
+       height="11"
+       x="36"
+       y="23" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#42b252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 24.025391 2 C 23.673255 1.99589 23.326276 2.084826 23.019531 2.2578125 L 7.0195312 11.257812 C 6.3900874 11.611898 6.0004009 12.277798 6 13 L 6 23 L 24 23 L 24 34 L 41.730469 34 C 41.903286 33.701101 41.999802 33.357474 42 33 L 42 13 C 41.999599 12.277798 41.609913 11.611897 40.980469 11.257812 L 24.980469 2.2578125 C 24.688718 2.0932613 24.360315 2.0046126 24.025391 2 z "
+       id="rect822" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#5fd777;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 24.025391 2 C 23.673255 1.99589 23.326276 2.084826 23.019531 2.2578125 L 7.0195312 11.257812 C 6.7016479 11.436633 6.4458555 11.695035 6.2695312 12 L 24 12 L 24 23 L 42 23 L 42 13 C 41.999599 12.277798 41.609913 11.611897 40.980469 11.257812 L 24.980469 2.2578125 C 24.688718 2.0932613 24.360315 2.0046126 24.025391 2 z "
+       id="rect828" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#9df9a8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 24.025391 2 C 24.016752 1.9998992 24.008632 2.0038952 24 2.0039062 L 24 12 L 41.730469 12 C 41.554145 11.695035 41.298352 11.436633 40.980469 11.257812 L 24.980469 2.2578125 C 24.688718 2.0932613 24.360315 2.0046126 24.025391 2 z "
+       id="rect834" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#42b252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect825"
+       width="12"
+       height="12"
+       x="18"
+       y="17" />
+  </g>
+</svg>

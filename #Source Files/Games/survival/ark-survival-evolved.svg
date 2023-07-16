@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ark-survival-evolveda.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.375241"
+     inkscape:cx="32.245832"
+     inkscape:cy="25.293344"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#9eb1d6;stroke:none;stroke-width:0.03307691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.603624,28.608425 0.732408,1.318334 H 16.89563 l -2.197224,-3.588798 3.295835,-4.467688 0.488273,0.390618 -0.195309,-0.87889 2.929631,-4.199138 1.196266,0.292963 -0.707993,-0.927717 0.292963,-0.439444 1.562469,2.441359 -2.831977,4.931546 h 4.34562 l -0.146481,-1.855433 2.026327,4.247966 h -7.592626 z"
+       id="path834"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f37f49;stroke:none;stroke-width:0.03307691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14.307789,26.679751 16.431771,30 12.086152,30.02441 Z"
+       id="path836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#9eb1d6;stroke:none;stroke-width:0.03307691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.0244,18.550024 6.494016,10.278124 -0.756822,1.147438 h 1.391575 l 2.026329,-3.588797 -3.198181,-4.199139 -1.074198,0.292964 0.561512,-1.098613 -3.955002,-5.37099 z"
+       id="path838"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ddf160;stroke:none;stroke-width:0.03307691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 33.765424,26.679751 35.889406,30 31.543787,30.02441 Z"
+       id="path836-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#9ec6fe;stroke:none;stroke-width:0.03307691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 23.755851,18.330302 2.123982,-3.32025 -4.34562,-0.02441 z"
+       id="path836-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

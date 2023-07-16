@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="akypea.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.575888"
+     inkscape:cx="2.6176607"
+     inkscape:cy="24.696041"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 20 13 C 16.676 13 14 15.676 14 19 C 14 20.252556 14.379805 21.413028 15.03125 22.373047 C 15.016981 22.581222 15 22.788079 15 23 C 15 27.986 19.014 32 24 32 C 24.211921 32 24.418778 31.983019 24.626953 31.96875 C 25.586972 32.620195 26.747444 33 28 33 C 31.324 33 34 30.324 34 27 C 34 25.747444 33.620195 24.586972 32.96875 23.626953 C 32.983019 23.418778 33 23.211921 33 23 C 33 18.014 28.986 14 24 14 C 23.788079 14 23.581222 14.016981 23.373047 14.03125 C 22.413028 13.379805 21.252556 13 20 13 z M 24 17 C 25.166667 17 26.078009 17.29584 26.697266 17.605469 C 27.316523 17.915097 27.707031 18.292969 27.707031 18.292969 A 1.0001 1.0001 0 1 1 26.292969 19.707031 C 26.292969 19.707031 26.183477 19.584903 25.802734 19.394531 C 25.421991 19.20416 24.833333 19 24 19 C 23.620442 19 22.982086 19.163676 22.552734 19.414062 C 22.123382 19.664449 22 19.897792 22 20 C 22 20.75 22.182583 20.987061 22.550781 21.273438 C 22.918979 21.559813 23.566406 21.800781 24.316406 22.050781 C 25.066406 22.300781 25.918979 22.559814 26.675781 23.148438 C 27.432583 23.737061 28 24.75 28 26 C 28 27.099642 27.225264 27.865302 26.455078 28.314453 C 25.684893 28.763604 24.822292 29 24 29 C 22.833333 29 21.921991 28.70416 21.302734 28.394531 C 20.683477 28.084903 20.292969 27.707031 20.292969 27.707031 A 1.0001 1.0001 0 1 1 21.707031 26.292969 C 21.707031 26.292969 21.816523 26.415097 22.197266 26.605469 C 22.578009 26.79584 23.166667 27 24 27 C 24.379558 27 25.017914 26.836324 25.447266 26.585938 C 25.876618 26.33555 26 26.102208 26 26 C 26 25.25 25.817417 25.012939 25.449219 24.726562 C 25.081021 24.440187 24.433594 24.199219 23.683594 23.949219 C 22.933594 23.699219 22.081021 23.440186 21.324219 22.851562 C 20.567417 22.262939 20 21.25 20 20 C 20 18.900358 20.774736 18.134698 21.544922 17.685547 C 22.315107 17.236396 23.177708 17 24 17 z "
+       id="rect817" />
+  </g>
+</svg>

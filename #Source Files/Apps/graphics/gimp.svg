@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="gimpa.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.083334"
+     inkscape:cx="14.762302"
+     inkscape:cy="19.355838"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke-width:0.67399645"
+       d="M 31.658203 15.011719 C 31.658203 15.011719 29.804726 18.724211 25.625 19.574219 A 2.6380641 2.6380641 0 0 0 24.101562 19.087891 A 2.6380641 2.6380641 0 0 0 22.484375 19.644531 C 18.755525 19.087553 17.962891 16.402344 17.962891 16.402344 C 17.962891 16.402344 16.63757 22.186563 17.214844 25.595703 C 17.610347 27.931385 21.167302 29.307037 24.275391 29.261719 C 27.273796 29.217989 28.951172 28.345703 28.951172 28.345703 L 31.765625 30.255859 C 31.765625 30.255859 32.008229 31.203287 32.429688 31.630859 C 33.866034 33.088047 36 34 36 34 C 36 34 36.19184 30.731741 34.863281 29.261719 C 34.380629 28.727676 32.839844 28.802734 32.839844 28.802734 L 30.5 26.923828 C 30.5 26.923828 31.690263 24.716604 31.941406 21.835938 C 32.245524 18.347631 31.658203 15.01172 31.658203 15.011719 z M 20 21 A 1 1 0 0 1 21 22 A 1 1 0 0 1 20 23 A 1 1 0 0 1 19 22 A 1 1 0 0 1 20 21 z M 24 21 A 1 1 0 0 1 25 22 A 1 1 0 0 1 24 23 A 1 1 0 0 1 23 22 A 1 1 0 0 1 24 21 z "
+       id="path829" />
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.62555635;paint-order:normal"
+       id="path837"
+       cx="-0.92797023"
+       cy="28.576557"
+       rx="2.1698985"
+       ry="3.2841704"
+       transform="rotate(-34.795932)" />
+  </g>
+</svg>

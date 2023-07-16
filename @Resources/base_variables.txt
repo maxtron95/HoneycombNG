@@ -1,0 +1,5 @@
+IconColor=
+BaseColor=
+ShadowColor=
+OverlayColor=
+IconGreyscale=

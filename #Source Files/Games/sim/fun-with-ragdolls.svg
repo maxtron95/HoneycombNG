@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="fun-with-ragdollsa.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.37524"
+     inkscape:cx="16.37269"
+     inkscape:cy="23.479144"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1.73457837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.468625,21.345913 c 0,0 1.201918,-1.24361 2.475674,-1.356532 1.58572,-0.14057 2.713065,0.813919 2.713065,0.813919 0,0 0.407588,-0.736131 0.339133,-1.729579 -0.144664,-2.099337 -1.594733,-3.167401 -3.289591,-3.0522 -1.715908,0.116633 -2.813086,1.964185 -2.74698,3.628726 0.03686,0.928089 0.508699,1.695666 0.508699,1.695666 z"
+       id="path833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsssc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1.76357353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.48229,22.280412 c 0,0 -0.519501,-0.566697 -0.482724,-1.965373 0.03321,-1.263018 0.786401,-3.182479 2.517057,-3.344582 1.487147,-0.139286 3.280788,0.887664 3.448022,2.861859 0.0949,1.120354 -0.379283,1.896411 -0.379283,1.896411 0,0 -1.477263,-0.90078 -2.723938,-0.758564 -1.209738,0.137999 -2.379134,1.310249 -2.379134,1.310249 z"
+       id="path835"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscsc" />
+    <path
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.92523181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.869141 23.009766 C 26.21109 23.33104 21.559216 23.737703 16.904297 24.101562 C 15.625319 24.201537 16.076172 25.457031 16.076172 25.457031 C 16.076172 25.457031 17.092365 33.831972 24.507812 33.210938 C 32.13919 32.571819 31.958984 23.837891 31.958984 23.837891 C 31.958984 23.837891 32.149059 22.921496 30.869141 23.009766 z M 26.916016 28.210938 C 28.280255 28.164253 29.173828 28.730469 29.173828 28.730469 C 29.173828 28.730469 28.497961 30.093607 26.351562 31.103516 C 25.051886 31.715031 23.152344 31.628906 23.152344 31.628906 C 23.152344 31.628906 23.384868 29.236227 25.410156 28.505859 C 25.953428 28.309942 26.461269 28.226499 26.916016 28.210938 z "
+       id="path837" />
+  </g>
+</svg>
