@@ -15,10 +15,11 @@ Some icons will require editing the `Action=` line in the icon skins to point to
 - MonD: Can also be installed in [MonD](https://github.com/meters-on-demand/cli) using `mond install creepertron95/HoneycombNG`
 ## Features
 
+- Updated designs
 - Multi-layered icons
-- Easily change color in config
+- Easily change color in the config files
 - Default, Clear, and Mono Variants
-- Hover Effect
+- Hover effect
   
 ## Credits
 - Original [Honeycomb](https://www.deviantart.com/apiium/art/Honeycomb-467211707) skin by [APIIUM](https://www.deviantart.com/apiium)
