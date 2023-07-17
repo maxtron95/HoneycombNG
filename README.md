@@ -11,7 +11,8 @@ Some icons will require editing the `Action=` line in the icon skins to point to
 
 [Rainmeter](https://www.rainmeter.net/) is required to install the skin.
 
-Latest Release can be found [here](https://github.com/creepertron95/HoneycombNG/releases)
+- Github: Latest Release can be found [here](https://github.com/creepertron95/HoneycombNG/releases)
+- MonD: Can also be installed in [MonD](https://github.com/meters-on-demand/cli) using `mond install creepertron95/HoneycombNG`
 ## Features
 
 - Multi-layered icons
