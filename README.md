@@ -20,7 +20,13 @@ Some icons will require editing the `Action=` line in the icon skins to point to
 - Easily change color in the config files
 - Default, Clear, and Mono Variants
 - Hover effect
-  
+
+## Requests
+Icons can be requested in the issues tab.
+
+## Wiki
+The wiki can be found [here](https://github.com/creepertron95/HoneycombNG/wiki)
+
 ## Credits
 - Original [Honeycomb](https://www.deviantart.com/apiium/art/Honeycomb-467211707) skin by [APIIUM](https://www.deviantart.com/apiium)
 - Clear Variant based on [Clear Honeycomb](https://www.deviantart.com/bud1994/art/Clear-Honeycomb-3-25-830905496) by [bud1994](https://www.deviantart.com/bud1994)
