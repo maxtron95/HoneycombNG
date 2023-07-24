@@ -1,3 +1,14 @@
+[IncludeConfig]
+@IncludeConfig=#@#config.inc
+
+[Variables]
+; Internal variables
+Blank=#@#Base\blank.png
+Mono=#@#Icons\#Type#\mono\#Icon#.png
+MonoName=#@#Icons\#Type#\mono\#IconMonoName#.png
+Overlay=#@#Icons\#Type#\overlay\#Icon#.png
+@IncludeBase=#@#Variants\base_#Base#.inc
+
 [Rainmeter]
 Update=-1
 Group=HoneycombNG
@@ -15,14 +26,3 @@ ContextTitle5=-
 ContextAction5=
 ContextTitle6=Open skin menu
 ContextAction6=[!SkinMenu]
-
-[IncludeConfig]
-@IncludeConfig=#@#config.inc
-
-[Variables]
-; Internal variables
-Blank=#@#Base\blank.png
-Mono=#@#Icons\#Type#\mono\#Icon#.png
-MonoName=#@#Icons\#Type#\mono\#IconMonoName#.png
-Overlay=#@#Icons\#Type#\overlay\#Icon#.png
-@IncludeBase=#@#Variants\base_#Base#.inc
