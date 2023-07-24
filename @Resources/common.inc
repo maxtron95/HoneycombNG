@@ -3,14 +3,18 @@ Update=-1
 Group=HoneycombNG
 RightMouseUpAction=[!SkinCustomMenu]
 
-ContextTitle=Edit config
-ContextAction=["#CONFIGEDITOR#" "#@#config.inc"]
-ContextTitle2=Refresh HoneycombNG
-ContextAction2=[!RefreshGroup HoneycombNG]
-ContextTitle3=-
-ContextAction3=
-ContextTitle4=Open skin menu
-ContextAction4=[!SkinMenu]
+ContextTitle=#CURRENTCONFIG#
+ContextAction=["#CURRENTPATH#"]
+ContextTitle2=-
+ContextAction2=
+ContextTitle3=Edit config
+ContextAction3=["#CONFIGEDITOR#" "#@#config.inc"]
+ContextTitle4=Refresh HoneycombNG
+ContextAction4=[!RefreshGroup HoneycombNG]
+ContextTitle5=-
+ContextAction5=
+ContextTitle6=Open skin menu
+ContextAction6=[!SkinMenu]
 
 [IncludeConfig]
 @IncludeConfig=#@#config.inc
