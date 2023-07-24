@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="mikumikumovinga.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.728764"
+     inkscape:cx="18.159799"
+     inkscape:cy="21.721823"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1399"
+     inkscape:window-height="1008"
+     inkscape:window-x="512"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="M 24 13 C 22.695825 13 21.454829 13.254844 20.314453 13.705078 L 21.667969 16.037109 C 21.946049 16.516262 21.78384 17.126217 21.304688 17.404297 L 20.439453 17.90625 C 19.9603 18.18433 19.352299 18.022122 19.074219 17.542969 L 17.720703 15.210938 C 17.246807 15.593023 16.810571 16.020997 16.414062 16.482422 L 18.646484 18.230469 C 19.08271 18.57197 19.159861 19.19854 18.818359 19.634766 L 18.201172 20.421875 C 17.859671 20.858101 17.233101 20.935251 16.796875 20.59375 L 14.8125 19.039062 C 14.516379 19.728352 14.301713 20.46066 14.166016 21.220703 L 17 25 L 20.076172 23.154297 C 20.476708 20.790987 22.519205 19 25 19 C 27.77 19 30 21.23 30 24 C 30 26.77 27.77 29 25 29 C 23.35942 29 21.922349 28.205561 21.011719 26.992188 L 16.71875 29.853516 C 18.540078 31.788424 21.12073 33 24 33 C 29.54 33 34 28.54 34 23 C 34 17.46 29.54 13 24 13 z "
+       id="rect822" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 24 13 C 18.46 13 14 17.46 14 23 C 14 28.54 18.46 33 24 33 C 29.54 33 34 28.54 34 23 C 34 17.46 29.54 13 24 13 z M 24 14 C 28.986 14 33 18.014 33 23 C 33 27.986 28.986 32 24 32 C 19.014 32 15 27.986 15 23 C 15 18.014 19.014 14 24 14 z "
+       id="rect838" />
+  </g>
+</svg>

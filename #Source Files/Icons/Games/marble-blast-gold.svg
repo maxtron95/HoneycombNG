@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="marble-blast-golda.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\Rainmeter\Skins\Honeycomb-NG\@Resources\Images\openshot.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs1995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.671859"
+     inkscape:cx="16.746537"
+     inkscape:cy="23.891013"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2562" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 17.816406 12.134766 L 18.970703 16.869141 L 17.009766 15.945312 L 18.009766 18.177734 L 14.199219 17.060547 L 15.970703 19.986328 L 13.123047 22.140625 L 17.001953 22.476562 C 17.001925 22.484489 17 22.492067 17 22.5 C 17 22.542893 17.00504 22.584263 17.005859 22.626953 L 13.583984 26.681641 L 17.875 25.755859 C 18.007569 25.985164 18.153799 26.203727 18.3125 26.414062 L 16.046875 33.146484 L 21.664062 28.734375 C 21.927054 28.811218 22.198736 28.868604 22.474609 28.912109 L 23.589844 33.837891 L 24.689453 28.886719 C 24.765425 28.87275 24.841009 28.858367 24.916016 28.841797 L 28.552734 33.03125 L 27.681641 27.480469 C 27.788227 27.390967 27.88968 27.295303 27.990234 27.199219 L 29.785156 28.490234 L 29.361328 25.527344 L 33.708984 24.988281 L 29.914062 23.513672 C 29.9242 23.448619 29.935153 23.384049 29.943359 23.318359 L 34.902344 20.023438 L 29.361328 19.697266 C 29.311148 19.592058 29.264557 19.484771 29.208984 19.382812 L 31.978516 15.136719 L 27.695312 17.53125 C 27.605641 17.455527 27.511729 17.385294 27.417969 17.314453 L 27.244141 14.251953 L 24.769531 16.125 C 24.560573 16.083898 24.348572 16.051939 24.132812 16.03125 L 21.933594 12.904297 L 20.703125 15.867188 L 17.816406 12.134766 z M 23.5 17 C 26.547 17 29 19.453 29 22.5 C 29 25.547 26.547 28 23.5 28 C 20.453 28 18 25.547 18 22.5 C 18 19.453 20.453 17 23.5 17 z "
+       id="path832" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect834"
+       width="4"
+       height="3"
+       x="7.0271516"
+       y="27.183804"
+       ry="1.4615185"
+       rx="1.961259"
+       transform="rotate(-29.551924)" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.462579,23.979579 c 0,0 1.115145,3.013893 4.020107,3.013893 2.904962,0 4.054368,-3.020368 4.054368,-3.020368 0,0 -1.757841,2.043241 -4.054368,2.040789 -2.296527,-0.0025 -4.020107,-2.034314 -4.020107,-2.034314 z"
+       id="path836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czczc" />
+  </g>
+</svg>
