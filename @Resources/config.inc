@@ -1,30 +1,31 @@
 [Variables]
 
-;;Base Settings;;
-Base=default
-BaseStyle=none
+; After changing the variables, save the file (ctrl + S), 
+; right click any Honeycomb and choose "Refresh HoneycombNG"
+
 HoneycombSize=90
 
-;;Colors;;
+; Available bases:
+; default | clear | mono
+Base=default
+
+; Available base styles:
+; none | cube | glazed | gloss | gradient | jelly | oldios | toon-grad | toon
+BaseStyle=none
+
+; Available hover effects:
+; default | clear | none | rim
+Hover=default
+HoverColor=0, 0, 0, 125
+
+; Colors
+; Remove the ; to enable the override
+
 ;IconColor=76,86,106
 ;BaseColor=235,203,139
 ;ShadowColor=
 ;OverlayColor=
 ;ClearColor=
 
-;;Hover Settings;;
-Hover=default
-HoverColor=0, 0, 0, 125
-
-;;Misc Settings;;
+; Misc options
 ;IconGreyscale=
-
-;;Other Variables;;
-Blank=#@#\Base\blank.png
-Mono=#@#\Icons\#Type#\mono\#Icon#.png
-MonoName=#@#\Icons\#Type#\mono\#IconMonoName#.png
-Overlay=#@#\Icons\#Type#\overlay\#Icon#.png
-@Include=#@#Variants/base_#Base#.inc
-
-[Rainmeter]
-Update=-1

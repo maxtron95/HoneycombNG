@@ -4,3 +4,8 @@ PreviewImage=https://repository-images.githubusercontent.com/667142052/9908a45b-
 Author=creepertron95
 ProfilePicture=https://avatars.githubusercontent.com/u/53346722
 Description=Enhanced Honeycomb
+
+Exclude=#Source Files
+Version=1.1.1
+HeaderImage=#@#Assets\banner.bmp
+VariableFiles=#@#config.inc
