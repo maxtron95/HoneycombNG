@@ -1,7 +1,9 @@
 [Variables]
 
 ;;Base Settings;;
+; default | clear | mono
 Base=default
+; none | cube | glazed | gloss | gradient | jelly | oldios | toon-grad | toon
 BaseStyle=none
 HoneycombSize=90
 
@@ -18,13 +20,3 @@ HoverColor=0, 0, 0, 125
 
 ;;Misc Settings;;
 ;IconGreyscale=
-
-;;Other Variables;;
-Blank=#@#\Base\blank.png
-Mono=#@#\Icons\#Type#\mono\#Icon#.png
-MonoName=#@#\Icons\#Type#\mono\#IconMonoName#.png
-Overlay=#@#\Icons\#Type#\overlay\#Icon#.png
-@Include=#@#Variants/base_#Base#.inc
-
-[Rainmeter]
-Update=-1
