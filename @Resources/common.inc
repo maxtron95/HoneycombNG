@@ -17,8 +17,8 @@ ContextAction4=[!SkinMenu]
 
 [Variables]
 ; Internal variables
-Blank=#@#\Base\blank.png
-Mono=#@#\Icons\#Type#\mono\#Icon#.png
-MonoName=#@#\Icons\#Type#\mono\#IconMonoName#.png
-Overlay=#@#\Icons\#Type#\overlay\#Icon#.png
-@IncludeBase=#@#Variants/base_#Base#.inc
+Blank=#@#Base\blank.png
+Mono=#@#Icons\#Type#\mono\#Icon#.png
+MonoName=#@#Icons\#Type#\mono\#IconMonoName#.png
+Overlay=#@#Icons\#Type#\overlay\#Icon#.png
+@IncludeBase=#@#Variants\base_#Base#.inc
