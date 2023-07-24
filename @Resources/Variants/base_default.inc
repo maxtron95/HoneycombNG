@@ -7,7 +7,7 @@ H=#HoneycombSize#
 
 [Base Overlay]
 Meter=Image
-ImageName=#BaseOverlay#
+ImageName=#@#Base\#BaseOverlay#
 ImageTint=#OverlayColor#
 GreyScale=#IconGreyscale#
 H=#HoneycombSize#
