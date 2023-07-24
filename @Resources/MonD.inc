@@ -6,6 +6,6 @@ ProfilePicture=https://avatars.githubusercontent.com/u/53346722
 Description=Enhanced Honeycomb
 
 Exclude=#Source Files
-Version=1.1.1
+Version=1.1.2
 HeaderImage=#@#Assets\banner.bmp
 VariableFiles=#@#config.inc
