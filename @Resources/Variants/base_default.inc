@@ -5,7 +5,7 @@ ImageTint=#BaseColor#
 LeftMouseUpAction=#Action#
 H=#HoneycombSize#
 
-[Base Overlay]
+[BaseOverlay]
 Meter=Image
 ImageName=#@#Base\#BaseOverlay#
 ImageTint=#OverlayColor#
